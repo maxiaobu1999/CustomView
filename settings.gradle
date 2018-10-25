@@ -1,1 +1,2 @@
-include ':app', ':principle', ':myrecyclerview'
+include ':app'
+//, ':principle', ':myrecyclerview'

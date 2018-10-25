@@ -4,8 +4,8 @@ import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
-import com.xiaobu.myrecyclerview.widget.RecyclerView
-import com.xiaobu.principle.PrincipleActivity
+//import com.xiaobu.myrecyclerview.widget.RecyclerView
+//import com.xiaobu.principle.PrincipleActivity
 
 class MainActivity : AppCompatActivity() {
 
@@ -15,6 +15,6 @@ class MainActivity : AppCompatActivity() {
 
     }
     fun click_button(view:View) {
-        startActivity(Intent(this,PrincipleActivity::class.java))
+//        startActivity(Intent(this,PrincipleActivity::class.java))
     }
 }
